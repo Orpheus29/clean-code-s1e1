@@ -49,11 +49,13 @@
     padding: 0;
 }
 
-.common-li, .h3-header {
+.common-li,
+.h3-header {
     list-style: none;
 }
 
-.common-input, .commom-button {
+.common-input,
+.commom-button {
     outline: none;
 }
 
@@ -139,13 +141,13 @@
     width: 226px;
 }
 
-.commom-button .delete-img {
+.delete-img {
     height: 2em;
     transform: rotateZ(45deg);
     transition: transform 200ms ease-in;
 }
 
-.commom-button .delete-img:hover {
+.delete-img:hover {
     transform: rotateZ(0);
 }
 
@@ -156,7 +158,7 @@
 }
 
 /* Edit Task */
-.common-li .text-input {
+.common-list .common-li .text-input {
     display: none;
 }
 
