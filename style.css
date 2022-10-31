@@ -20,7 +20,7 @@
     font-family: Fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
     
   .matrix-block {
       text-align: center;
@@ -45,21 +45,21 @@
 }
 
 .common-list {
-    margin:0;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .common-li, .h3-header {
-    list-style:none;
+    list-style: none;
 }
 
-.common-input, .commom-button{
-    outline:none;
+.common-input, .commom-button {
+    outline: none;
 }
 
 .commom-button {
     background: none;
-    border: 0px;
+    border: 0;
     color: #888;
     font-size: 15px;
     width: 60px;
@@ -157,14 +157,14 @@
 
 /* Edit Task */
 .common-li .text-input {
-    display:none
+    display: none
 }
 
 .edit-mode .text-input {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 
 .edit-mode .common-label {
-    display:none;
+    display: none;
 }
