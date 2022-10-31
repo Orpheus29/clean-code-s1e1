@@ -17,7 +17,7 @@
 }
 
 .matrix-block .more_inf {
-    font-family: fantasy, cursive;
+    font-family: Fantasy, cursive;
 }
 
 @media (max-width:768px) {
@@ -26,7 +26,7 @@
   }
 }
 
-.centered-main-page-element {
+.main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
